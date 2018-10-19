@@ -4,4 +4,4 @@ This repository presents the code for the following machine learning algorithms 
 1. Linear Regression
 
 
-Note: It is a file in progress, i.e. more aalgorithms will be added with time.
+Note: It is a file in progress, i.e. more algorithms will be added with time.
