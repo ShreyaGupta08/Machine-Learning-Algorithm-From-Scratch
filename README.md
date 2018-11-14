@@ -5,4 +5,4 @@ It is a dynamic repository in which the following machine learning algorithms ha
 1. Linear Regression
     a. Univariate
     b. Multivariate on Boston Dataset
-2. K-Nearest Neighbours (on Iris Dataset)
+2. K-Nearest Neighbours on Iris Dataset
