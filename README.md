@@ -6,3 +6,4 @@ It is a dynamic repository in which the following machine learning algorithms ha
     a. Univariate
     b. Multivariate on Boston Dataset
 2. K-Nearest Neighbours on Iris Dataset
+3. K-Means Clustering
